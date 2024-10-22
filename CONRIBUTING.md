@@ -20,7 +20,7 @@ Welcome to our project! We appreciate your interest and contributions. Please re
    - Clone the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/fineanmol/Hacktoberfest2024.git
+   https://github.com/mohamedammar27/Hacktoberfest-2k24
    ```
 
 3. **Navigate to the Project Directory:**
